@@ -1,0 +1,3 @@
+Wigner: https://reactionmechanismgenerator.github.io/RMG-Py/reference/kinetics/wigner.html
+
+Eckert: https://reactionmechanismgenerator.github.io/RMG-Py/reference/kinetics/eckart.html
