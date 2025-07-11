@@ -111,7 +111,7 @@ program RRKM_rate_calc
 
      rrkm_rate= sum_count/(h*total_ro_count)
 
-     open(unit=20, file='output.out')
+     open(unit=20, file='output_rrkm.out')
      write(20, '(A)') "Authors: Philips Kumar Rai and Aditya Barman"
      write(20, '(A)') "Email: atomicadi2023@gmai.com"
      write(20,'(A)') "==================================Input data=================================="
