@@ -1,6 +1,6 @@
 !Aditya Barman, graduate student, Weizmann Institute of Science, July 11, 2025
 ! Email: atomicadi2023@gmail.com
-program wigner_theory_clac
+program wigner_theory_calc
        implicit none
         real(kind=8), parameter :: h = 6.626D-34, k_B = 1.3806D-23, c= 2.99D10
         real(kind=8) :: imgf, T, nume, denom, val, k_wig 
@@ -14,4 +14,4 @@ program wigner_theory_clac
      val = (nume/denom) **2
      k_wig = 1.0D0 + (1.0D0/24.0D0)*val
      write(*,*) "The Wigner tunneling factor (k_wig) is", k_wig
-end program wigner_theory_clac
+end program wigner_theory_calc
