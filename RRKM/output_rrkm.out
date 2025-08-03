@@ -1,0 +1,23 @@
+Authors: Philips Kumar Rai and Aditya Barman
+Email: atomicadi2023@gmai.com
+==================================Input data==================================
+Total energy (in cm-1) = 3000.000000
+Threshold energy (in cm-1) = 1000.000000
+==================================Output data==================================
+Density of states at various discrete energy levels upto total energy (E):
+ro_0.000000=    1
+ro_300.000000=    1
+ro_600.000000=    4
+ro_900.000000=    9
+ro_1200.000000=   18
+ro_1500.000000=   33
+ro_1800.000000=   55
+ro_2100.000000=   86
+ro_2400.000000=  130
+ro_2700.000000=  190
+ro_3000.000000=  270
+The sum of states N(E-E_0) =  121
+Total density of states ro(E) =  797
+ RRKM rate constant k(E) in s-1 unit=   4.55121152E+09
+
+      ------------------End of the file--------------------         
