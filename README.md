@@ -1,5 +1,5 @@
 # CTST-rate
-Command line: '''./TST.sh'''
+Command line: ```./TST.sh```
 
 # RRKM
 Command line: gfortran -o rr rrkm.f90//
