@@ -1,4 +1,7 @@
-# RRKM_Philiditya
+# CTST-rate
+Command line: ./TST.sh
+
+# RRKM
 Command line: gfortran -o rr rrkm.f90//
 
 ./rr
