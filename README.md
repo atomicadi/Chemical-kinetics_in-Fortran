@@ -6,4 +6,8 @@ Command line: ```gfortran -o rr rrkm.f90```
 
 ```./rr```
 
-# Wigner tunnelling (Pwd: RRKM_Philiditya/Tunneling/Wigner)
+# Wigner tunnelling (Tunneling/Wigner)
+Command line: ```gfortran -o wig wigner.f90```
+
+```./wig```
+
