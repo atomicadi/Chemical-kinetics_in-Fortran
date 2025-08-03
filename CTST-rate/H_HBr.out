@@ -1,0 +1,56 @@
+ ==================================================================================
+                       =        ========           =          ========             
+                     =              =            =                =                
+                    =               =              =              =                
+                    =               =               =             =                
+                     =              =               =             =                
+                       =            =             =               =                
+ ==================================================================================
+                                      Aditya Barman                                
+                             Email: atomicadi2023@gmai.com                         
+                   Current Institute: Weizmann Institute of Science, Israel        
+            Alma Mater: Malaviya National Institute of Technology Jaipur, India    
+                                     August 03, 2025                               
+ ==================================================================================
+ The reaction is:H + HBr = H2 + Br                                                                                                                                                                                                                                               
+ The temperature is   300.00000000000000      K
+ The barrier hight of the reaction is   5.0000000000000000      kj mol-1
+
+ __________________________Information about Reactant-1_____________________________
+ Reactant-1 is monatomic.
+ Total mass of Reactant-1 is   1.6833600478048191E-027 kg
+ Moment of inertia of Reactant-1 is   1.0000000000000000      kg m-2
+ Volume factor of Reactant-1 is   1.0000000000000000      m3
+ Symmetry factor of Reactant-1 is           1
+ Translational partition function of Reactant-1 is   9.9675378868878852E+029 m-3
+ Rotational partition function of Reactant-1 is   1.0000000000000000     
+ Reactant-1 has no any vibrational frequency.
+ Total partition function of Reactant-1 is:   9.9675378868878852E+029 m-3
+
+ __________________________Information about Reactant-2_____________________________
+ Reactant-2 is diatomic.
+ Total mass of Reactant-2 is   1.3514976383804405E-025 kg
+ Moment of inertia of Reactant-2 is   3.3050034719320995E-047 kg m-2
+ Volume factor of Reactant-2 is   1.0000000000000000      m-3
+ Symmetry factor of Reactant-2 is           1
+ Translational partition function of Reactant-2 is   7.1704317830314894E+032 m3
+ Rotational partition function of Reactant-2 is   24.618601432980785     
+ Vibrational partition function of Reactant-2 is   1.0000031269184595     
+ Total partition function of Reactant-2 is:   1.7652655415124475E+034 m-3
+
+ __________________________Information about Activated Complex_____________________________
+ Activated Complex is polyatomic.
+ Total mass of Activated Complex is   1.3683312388584888E-025 kg
+ Moment of inertia of Activated Complex is   1.7215066891912001E-046 kg m-2
+ Volume factor of Activated Complex is   1.0000000000000000      m-3
+ Symmetry factor of Activated Complex is           1
+ Translational partition function of Activated Complex is   7.3048152203900608E+032 m3
+ Rotational partition function of Activated Complex is   128.23310899771184     
+ Vibrational partition function of Activated Complex is   1.2646809968053168     
+ Total partition function of Activated Complex is:   1.1846509290444040E+035 m-3
+
+ __________________________Rate Constant_____________________________
+ Rate constant of the reaction is   5.6693964211440097E-018 m3 s-1
+ ____________________________________________________________________
+                   | Hurray! A successful calculation |              
+ ---------------------------End of the file--------------------------
