@@ -1,4 +1,4 @@
-module partition_clac_scratch
+module partition_calc_scratch
        implicit none
        real(8), parameter :: pi = 3.141592653589793, k_B = 1.380649e-23, h = 6.626e-34, c = 2.99e10, R = 8.314, kilo_fac = 1000.0
        real(8) :: trans_val, rot_val, vai_val, parti_val, rate_val
