@@ -1,6 +1,6 @@
 program rate_calc
        use requirement_scratch
-       use partition_clac_scratch
+       use partition_calc_scratch
        implicit none
        integer :: R_1_atomicity, R_2_atomicity, R_1_shape, R_2_shape, R_1_sym_fac, R_2_sym_fac, pos
        integer :: ac_atomicity, ac_shape, ac_sym_fac
