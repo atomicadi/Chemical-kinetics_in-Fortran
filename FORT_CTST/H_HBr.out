@@ -1,0 +1,70 @@
+ ================================================================================================================
+                   =====      =      ===    =====           |=                         
+                   =        =   =    =   =    =            / \                         
+                   =       =     =   =    =   =            |-|                         
+                   =       =     =   =    =   =            |-|                         
+                   =       =     =   =   =    =            | |  || || ||               
+                   =====   =     =   =  =     =            | |--||-||-||--             
+                   =       =     =   =   =    =           -----------------            
+                   =       =     =   =   =    =            |=============|             
+                   =       =     =   =   =    =            |====| |==| |=|             
+                   =       =     =   =   =    =            |=============|             
+                   =       =     =   =   =    =            |====|     |==|             
+                   =        =   =    =   =    =            |====|     |==|             
+                   =          =      =   =    =           =================            
+ ================================================================================================================
+                FORT: Fortran Operator for Rate Theory, A CTST rate calculator                                   
+                                       Aditya Barman                                                             
+                               Email: atomicadi2023@gmail.com                                                    
+                   Graduate student @ Weizmann Institute of Science, Israel                                      
+              Alma mater: Malaviya National Institute of Technology Jaipur, India                                
+ ================================================================================================================
+ The reaction is H + HBr = H2 + Br                                                                                                                                                                                                                                               
+  
+ ________________________________Information about Reactant-1____________________________________________________
+ Reactant-1 is Monatomic.
+ Total mass of Reactant-1 is   1.6833600478048191E-027 kg.
+ Again, Reactant-1 is monatomic.
+ Volume factor of Reactant-1 is   1.0000000000000000      m3.
+ Symmetry factor of Reactant-1 is           1
+ Translational partition function of Reactant-1 is   9.9675378868878852E+029 m-3.
+ Your Reactant-1 has only a single atom !!!
+ Again, your Reactant-1 has only a single atom !!!
+ Total partition function of Reactant-1 is   9.9675378868878852E+029 m-3.
+     
+ ________________________________Information about Reactant-2____________________________________________________
+ Reactant-2 is Diatomic.
+ Total mass of Reactant-2 is   1.3514976383804405E-025 kg.
+ Moments of Inertia (kg m2) of Reactant-2 are: I_A=   4.7259298483578744E-063 , I_B=   3.3104810501323916E-047 , I_C=   3.3104810501323916E-047
+ Volume factor of Reactant-2 is   1.0000000000000000      m3.
+ Symmetry factor of Reactant-2 is           1
+ Translational partition function of Reactant-2 is   7.1704317830314894E+032 m-3.
+ Reactant-2 is Linear.
+ Rotation partition function of Reactant-2 is   24.659403300717447     
+ Reactant-2 has           1 vibrational frequency.
+ The vibrational frequency is   2650.0000000000000      cm-1.
+ Vibrational partition function of Reactant-2 is   1.0000031269184595     
+ Total partition function of Reactant-2 is   1.7681912207530394E+034 m-3.
+    
+ _____________________________Information about Activated Complex________________________________________________
+ Activated complex is Polyatomic.
+ Total mass of activated complex is   1.3683312388584885E-025 kg.
+ Moments of Inertia (kg m2) of activated complex are: I_A=   6.4022358117356590E-050 , I_B=   1.7434483475751100E-046 , I_C=   1.7440885711562841E-046
+ Volume factor of activated complex is   1.0000000000000000      m3.
+ Symmetry factor of activated complex is           1
+ Translational partition function of activated complex is   7.3048152203900565E+032 m-3.
+ Activated complex is Linear.
+ Rotation partition function of activated complex is   129.91520814352612     
+ Activated complex has           2 vibrational frequencies.
+           1 frequency is   460.00000000000000      cm-1.
+           2 frequency is   2340.0000000000000      cm-1.
+ Vibrational partition function of activated complex is   1.1246036013342586     
+ Total partition function of activated complex is   1.0672562285868641E+035 m-3.
+     
+ ________________________Information about Temperature, Energy barrier and Rate constant_________________________
+ Temperature is   300.00000000000000      K.
+ The energy barrier of the reaction is   5.0000000000000000      kj mol-1.
+ The CTST rate constant of the reaction is   5.0991282798159907E-018 m3 s-1.
+ ________________________________________________________________________________________________________________
+                                      | Hurray! A successful calculation! |                                       
+ ------------------------------------------------End of the file-------------------------------------------------

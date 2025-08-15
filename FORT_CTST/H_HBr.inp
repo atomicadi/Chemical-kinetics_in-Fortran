@@ -1,0 +1,38 @@
+H + HBr = H2 + Br
+300.0   ! Temperature in K unit
+!===================Reactant-1==================
+0       ! monatomi(0), diatomic (1), polyatomic (2)
+1       ! number of atom in reactant
+1.008   ! atomic mass of the atom in a.m.u
+1.0     ! volume factor (in m3 unit)
+1       ! symmetry factor
+!==================Reactant-2===================
+1       ! monatomi(0), diatomic (1), polyatomic (2)
+2       ! number of atom in reactant
+79.92   ! atomic mass of the atom in a.m.u
+1.008
+Br        -0.76011        2.84766        0.00602  ! atomic coordinates
+H          0.23389        1.84600        0.00000
+1.0     ! volume factor (in m3 unit)
+1       ! symmetry factor
+1       ! number of frequencies
+2650.0  ! frequency in cm-1 unit
+!==================Activated Complex===================
+2       ! monatomi(0), diatomic(1), polyatomic(2)
+3       ! number of atom in reactant
+79.92   ! atomic mass of the atom in a.m.u
+1.008
+1.008
+Br        -0.60836        2.64928        0.01287  ! atomic coordinates
+H          0.41774        1.66244       -0.00568
+H          1.40213        0.52229       -0.00317
+1.0     ! volume factor (in m3 unit)
+1       ! symmetry factor
+2       ! number of frequencies
+460.0   ! frequency in cm-1 unit
+2340.0  ! frequency in cm-1 unit
+!=================Energy barrier========================
+5.000   ! energy barrier of the reaction in kj mol-1 unit    
+
+ 
+ 

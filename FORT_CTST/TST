@@ -1,0 +1,2 @@
+gfortran -o calc mod2_partition.f90 mod_1_requirement_scratch.f90 mother.f90 -llapack -lblas
+./calc
