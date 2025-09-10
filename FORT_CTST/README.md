@@ -24,4 +24,15 @@ $$
 
 
 </p>
+
+So, the equation (1) can be written as:
+<p align="center">
+
+
+$$
+q = \sum_i g_{e_i} e^{-\frac{e_i}{k_BT}} + g_{ν_i} e^{-\frac{ν_i}{k_BT}} + g_{r_i} e^{-\frac{r_i}{k_BT}} + g_{t_i} e^{-\frac{t_i}{k_BT}}  ...... (3)
+$$
+
+
+</p>
 Command line: ```./TST```
