@@ -59,4 +59,14 @@ $$
 
 </p>
 
+The formula of separate partition functions are:
+<p align="center">
+
+
+$$
+q_{ν} =  \frac{1}{1 - e^{-\frac{hν}{k_BT}}}q_{r} q_{t}  ...... (6)
+$$
+
+
+</p>
 Command line: ```./TST```
