@@ -64,15 +64,19 @@ The formula of separate partition functions are:
 
 
 $$
-q_{ν} =  \frac{1}{(1 - e^{-\frac{hν}{k_BT}})}  ...... (6)
+q_{ν} (per nmormal mode) =  \frac{1}{(1 - e^{-\frac{hν}{k_BT}})}  ...... (6)
 $$
 
 $$
-q_{r} (linear m,olecule) =  \frac{8π^2Ik_BT}{σh^2}  ...... (7)
+q_{r} (linear molecule) =  \frac{8π^2Ik_BT}{σh^2}  ...... (7)
 $$
 
 $$
-q_{r} (nonlinear m,olecule) =  \frac{8π^2(8π^3I_AI_BI_C)^{1/2}(k_BT)^{3/2}}{σh^3}  ...... (7)
+q_{r} (nonlinear molecule) =  \frac{8π^2(8π^3I_AI_BI_C)^{1/2}(k_BT)^{3/2}}{σh^3}  ...... (8)
+$$
+
+$$
+q_{t} =  \frac{(2πmk_BT)^{3/2}}{h^2}  ...... (8)
 $$
 </p>
 Command line: ```./TST```
