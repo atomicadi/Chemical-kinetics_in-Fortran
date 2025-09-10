@@ -124,6 +124,10 @@ $$
 I_{zz} = \sum_im_i(x_i^2 + y_i^2)
 $$
 
+$$
+I_{xy} = \sum_im_ix_iy_i = I_{yx}
+$$
+
 </p>
 
 
