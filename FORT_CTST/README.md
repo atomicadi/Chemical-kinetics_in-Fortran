@@ -14,7 +14,7 @@ $$
 
 </p>
 
-Where the summation is taken over all energy lavels. The energy ε<sub>i</sub> is the energy of the i<sup>th</sup> state relative to the zero-point energy, and g<sub>i</sub> is the degeneracy. Usually, is is assume that the various types of energy- electronic, vibrational, rotational, and translational- are independent of one another. So, the total energy corresponding to the i<sup>th</sup> energy state is thus expressed as the sum of the energies of the different types:
+Where, the summation is taken over all energy lavels. The energy ε<sub>i</sub> is the energy of the i<sup>th</sup> state relative to the zero-point energy, and g<sub>i</sub> is the degeneracy. Usually, is is assume that the various types of energy- electronic, vibrational, rotational, and translational- are independent of one another. So, the total energy corresponding to the i<sup>th</sup> energy state is thus expressed as the sum of the energies of the different types:
 <p align="center">
 
 
@@ -25,7 +25,7 @@ $$
 
 </p>
 
-Where e<sub>i</sub> = electronic energy, ν<sub>i</sub> = vibrational energy, r<sub>i</sub> = rotational energy, and t<sub>i</sub> = translational energy. So, using equation (2), equation (1) can be written as:
+Where, e<sub>i</sub> = electronic energy, ν<sub>i</sub> = vibrational energy, r<sub>i</sub> = rotational energy, and t<sub>i</sub> = translational energy. So, using equation (2), equation (1) can be written as:
 <p align="center">
 
 
@@ -47,7 +47,7 @@ $$
 
 </p>
 
-Where q<sub>e</sub> (electronic), q<sub>ν</sub> (vibrational), q<sub>r</sub> (rotational), and q<sub>t</sub> (translational) are separate partition functions, each referring to one type of energy. At ordinary temperatures the excited electronic levels of an atom or molecule are
+Where, q<sub>e</sub> (electronic), q<sub>ν</sub> (vibrational), q<sub>r</sub> (rotational), and q<sub>t</sub> (translational) are separate partition functions, each referring to one type of energy. At ordinary temperatures the excited electronic levels of an atom or molecule are
 usually too high to make a significant contribution to the partition function and equation (4) becomes,
 <p align="center">
 
@@ -72,11 +72,13 @@ q_{r} (linear-molecule) =  \frac{8π^2Ik_BT}{σh^2}  ...... (7)
 $$
 
 $$
-q_{r} (nonlinear molecule) =  \frac{8π^2(8π^3I_AI_BI_C)^{1/2}(k_BT)^{3/2}}{σh^3}  ...... (8)
+q_{r} (nonlinear-molecule) =  \frac{8π^2(8π^3I_AI_BI_C)^{1/2}(k_BT)^{3/2}}{σh^3}  ...... (8)
 $$
 
 $$
 q_{t} =  \frac{(2πmk_BT)^{3/2}}{h^2}  ...... (9)
 $$
 </p>
+
+Where, h = Planck constant, ν = normal-mode vibrational frequency, k<sub>B</sub> = Boltzmann constant, T = absolute temperature, I = moment of inertia for the linear molecule, (I<sub>A</sub>,I<sub>B</sub>, and I<sub>C</sub>) = moment of inertia for a nonlinear molecule about three axes at right angles, σ = symmetry number, m = mass of molecule  
 Command line: ```./TST```
