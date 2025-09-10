@@ -64,11 +64,11 @@ The formula of separate partition functions are:
 
 
 $$
-q_{ν} $(per normal mode)$ =  \frac{1}{(1 - e^{-\frac{hν}{k_BT}})}  ...... (6)
+q_{ν} (per-normal-mode) =  \frac{1}{(1 - e^{-\frac{hν}{k_BT}})}  ...... (6)
 $$
 
 $$
-q_{r} (linear molecule) =  \frac{8π^2Ik_BT}{σh^2}  ...... (7)
+q_{r} (linear-molecule) =  \frac{8π^2Ik_BT}{σh^2}  ...... (7)
 $$
 
 $$
