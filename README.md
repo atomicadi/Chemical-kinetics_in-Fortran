@@ -4,12 +4,12 @@
 
 Command line: ```./TST```
 
-# RRKM
+# Folder: RRKM
 Command line: ```gfortran -o rr rrkm.f90```
 
 ```./rr```
 
-# Wigner tunnelling (Tunneling/Wigner)
+# Folder: Wigner tunnelling (Tunneling/Wigner)
 Command line: ```gfortran -o wig wigner.f90```
 
 ```./wig```
