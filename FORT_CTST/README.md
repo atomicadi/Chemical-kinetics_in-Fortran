@@ -106,5 +106,26 @@ $$
 Where, q<sub>‡</sub> is the total partition function of activated complex, q<sub>A</sub> and q<sub>B</sub> are the total partition function of reactant A and B respectively, E<sub>0</sub> = Barrier hight, and R = Gas constant.
 
 
-In this project the CTST rate constant is calculated by solving equation (10) through Fortran programming. Herein 3 files (mod_1_requirement_scratch.f90, mod2_partition.f90, and mother.f90) are generated in which mod_1_requirement_scratch.f90 is a module file that conatains the requirement values and calculations to solve the partition function (eg Total mass, moment of inertia etc.).
+In this project the CTST rate constant is calculated by solving equation (10) through Fortran programming. Herein 3 files (mod_1_requirement_scratch.f90, mod2_partition.f90, and mother.f90) are generated in which mod_1_requirement_scratch.f90 is a module file that conatains the requirement values and calculations to solve the partition functions (eg Total mass, moment of inertia etc.). For solving the moment of inerta, the moment of inerta tensor is generated first using the equations,
+<p align="center">
+
+
+$$
+I_xx = \sum_i(y_i^2 + z_i^2)
+$$
+
+
+</p> 
+then using all the formulas, finally the CSTS rate constant equation becomes,
+<p align="center">
+
+
+$$
+k = \frac{k_BT}{h} \frac{q_{‡}}{q_A q_B} e^{-\frac{E_0}{RT}}  ...... (10)
+$$
+
+
+</p>
+
+
 Command line: ```./TST```
