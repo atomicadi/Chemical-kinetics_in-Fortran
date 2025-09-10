@@ -82,7 +82,17 @@ $$
 
 Where, h = Planck constant, ν = normal-mode vibrational frequency, k<sub>B</sub> = Boltzmann constant, T = absolute temperature, I = moment of inertia for the linear molecule, (I<sub>A</sub>,I<sub>B</sub>, and I<sub>C</sub>) = moment of inertia for a nonlinear molecule about three axes at right angles, σ = symmetry number, m = mass of molecule\
 
-Using all the formulas, finally the CSTS rate constant equation becomes,
+Now, if a reaction is
+<p align="center">
+
+
+$$
+A + B -> a^{‡} -> C + D 
+$$
+
+
+</p> 
+then using all the formulas, finally the CSTS rate constant equation becomes,
 <p align="center">
 
 
