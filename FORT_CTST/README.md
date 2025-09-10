@@ -25,6 +25,7 @@ $$
 
 </p>
 
+
 Where, e<sub>i</sub> = electronic energy, ν<sub>i</sub> = vibrational energy, r<sub>i</sub> = rotational energy, and t<sub>i</sub> = translational energy. So, using equation (2), equation (1) can be written as:
 <p align="center">
 
