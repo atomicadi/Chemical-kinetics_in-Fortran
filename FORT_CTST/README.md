@@ -144,7 +144,7 @@ $$
 
 Finally using equation (11)-(16), the moment of inerta tensor is generated,
   | I_xx | I_xy | I_xz |
-I=| I_yx | I_yy | I_yz |
+  | I_yx | I_yy | I_yz |
   | I_zx | I_zy | I_zz |
 
 
