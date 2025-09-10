@@ -111,32 +111,39 @@ In this project the CTST rate constant is calculated by solving equation (10) th
 
 
 $$
-I_{xx} = \sum_im_i(y_i^2 + z_i^2)
+I_{xx} = \sum_im_i(y_i^2 + z_i^2)  ......(11)
 $$
 
 
 $$
-I_{yy} = \sum_im_i(z_i^2 + x_i^2)
+I_{yy} = \sum_im_i(z_i^2 + x_i^2)   ......(12)
 $$
 
 
 $$
-I_{zz} = \sum_im_i(x_i^2 + y_i^2)
+I_{zz} = \sum_im_i(x_i^2 + y_i^2)  ......(13)
 $$
 
 $$
-I_{xy} = -\sum_im_ix_iy_i = I_{yx}
+I_{xy} = -\sum_im_ix_iy_i = I_{yx}  ......(14)
 $$
 
 $$
-I_{xz} = -\sum_im_ix_iz_i = I_{zx}
+I_{xz} = -\sum_im_ix_iz_i = I_{zx}  ......(15)
 $$
 
 $$
-I_{yz} = -\sum_im_iy_iz_i = I_{zy}
+I_{yz} = -\sum_im_iy_iz_i = I_{zy}  ......(16)
 $$
 
 </p>
 
-
+Finally using equation (11)-(16), the moment of inerta tensor is generated,
+$$
+\begin{bmatrix}
+a & b & c \\
+d & e & f \\
+g & h & i
+\end{bmatrix}
+$$
 Command line: ```./TST```
