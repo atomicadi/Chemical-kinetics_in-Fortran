@@ -14,7 +14,7 @@ $$
 
 </p>
 
-Where, the summation is taken over all energy lavels. The energy ε<sub>i</sub> is the energy of the i<sup>th</sup> state relative to the zero-point energy, and g<sub>i</sub> is the degeneracy. Usually, is is assume that the various types of energy- electronic, vibrational, rotational, and translational- are independent of one another. So, the total energy corresponding to the i<sup>th</sup> energy state is thus expressed as the sum of the energies of the different types:
+Where, the summation is taken over all energy lavels. The energy ε<sub>i</sub> is the energy of the i<sup>th</sup> state relative to the zero-point energy, and g<sub>i</sub> is the degeneracy. Usually, it is assume that the various types of energy- electronic, vibrational, rotational, and translational- are independent of one another. So, the total energy corresponding to the i<sup>th</sup> energy state is thus expressed as the sum of the different types of the energies:
 <p align="center">
 
 
