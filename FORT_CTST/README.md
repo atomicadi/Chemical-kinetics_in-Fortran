@@ -144,7 +144,11 @@ $$
 
 Finally using equation (11)-(16), the moment of inerta tensor is generated,
 
-$\begin{bmatrix}X\\Y\end{bmatrix}$
+    \begin{bmatrix}
+    A1 & A2 & A3 \\\\
+    A4 & A5 & A6
+    \end{bmatrix}
+
 
 
 Command line: ```./TST```
