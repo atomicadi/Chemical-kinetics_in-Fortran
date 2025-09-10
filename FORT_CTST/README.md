@@ -64,7 +64,7 @@ The formula of separate partition functions are:
 
 
 $$
-q_{ν} =  \frac{1}{1 - e^{-\frac{hν}{k_BT}}}q_{r} q_{t}  ...... (6)
+q_{ν} =  \frac{1}{(1 - e^{-\frac{hν}{k_BT}})}  ...... (6)
 $$
 
 
