@@ -14,7 +14,7 @@ $$
 
 </p>
 
-Where the summation is taken over all energy lavels. The energy ε<sub>i</sub> is the energy of the i<sup>th</sup> state relative to the zero-point energy, and g<sub>i</sub> is the degeneracy. The total energy corresponding to the i<sup>th</sup> energy state is thus expressed as the sum of the energies of the different types:
+Where the summation is taken over all energy lavels. The energy ε<sub>i</sub> is the energy of the i<sup>th</sup> state relative to the zero-point energy, and g<sub>i</sub> is the degeneracy. Usually, is is assume that the various types of energy- electronic, vibrational, rotational, and translational- are independent of one another. So, the total energy corresponding to the i<sup>th</sup> energy state is thus expressed as the sum of the energies of the different types:
 <p align="center">
 
 
@@ -30,7 +30,18 @@ Where e<sub>i</sub> = electronic energy, ν<sub>i</sub> = vibrational energy, r<
 
 
 $$
-q = \sum_i g_{e_i} e^{-\frac{e_i}{k_BT}} + g_{ν_i} e^{-\frac{ν_i}{k_BT}} + g_{r_i} e^{-\frac{r_i}{k_BT}} + g_{t_i} e^{-\frac{t_i}{k_BT}}  ...... (3)
+q = \sum_i g_{e_i} e^{-\frac{e_i}{k_BT}}  g_{ν_i} e^{-\frac{ν_i}{k_BT}}  g_{r_i} e^{-\frac{r_i}{k_BT}}  g_{t_i} e^{-\frac{t_i}{k_BT}}  ...... (3)
+$$
+
+
+</p>
+
+Omitting the degeneracy, equation (3) may be written as:
+<p align="center">
+
+
+$$
+q = q_{e} q_{ν} q_{r} q_{t}  ...... (4)
 $$
 
 
