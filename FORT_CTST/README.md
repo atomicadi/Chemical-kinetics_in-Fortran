@@ -14,5 +14,14 @@ $$
 
 </p>
 
-Where the summation is taken over all energy lavels. The energy ε<sub>i</sub> is the energy of the i<sup>th</sup> state relative to the zero-point energy, and g<sub>i</sub> is the degeneracy.
+Where the summation is taken over all energy lavels. The energy ε<sub>i</sub> is the energy of the i<sup>th</sup> state relative to the zero-point energy, and g<sub>i</sub> is the degeneracy. The total energy corresponding to the i<sup>th</sup> energy state is thus expressed as the sum of the energies of the different types:
+<p align="center">
+
+
+$$
+ε_i = e_i + ν_i + r_i + t_i  ...... (2)
+$$
+
+
+</p>
 Command line: ```./TST```
