@@ -148,5 +148,5 @@ Finally using equation (11)-(16), the moment of inerta tensor is generated,
   | I<sub>yx</sub> | I<sub>yy</sub> | I<sub>yz</sub> |
   | I<sub>zx</sub> | I<sub>zy</sub> | I<sub>zz</sub> |
 
-On the other hand, mod2_partition.f90 is the second module file which conatins the calculations of parition functions using the values of module file 1 and also the calculation of CSTST rate constant. The mother.f90 is the main file which gathered all the information by the user in input file (H_HBr.inp) and link all the files through the command and gives the executable file (TST). And by typing a simple command (```./TST```) to run the executable file the result can be gererated.
+On the other hand, mod2_partition.f90 is the second module file which conatins the calculations of parition functions using the values of module file 1 and also the calculation of CSTST rate constant. Beside that mother.f90 is the main file which gathered all the information by the user from the input file (H_HBr.inp) and link all the files through the command and gives the executable file (TST). And by typing a simple command (```./TST```) to run the executable file the result can be gererated.
 
