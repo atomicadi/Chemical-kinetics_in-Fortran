@@ -125,7 +125,15 @@ I_{zz} = \sum_im_i(x_i^2 + y_i^2)
 $$
 
 $$
-I_{xy} = \sum_im_ix_iy_i = I_{yx}
+I_{xy} = -\sum_im_ix_iy_i = I_{yx}
+$$
+
+$$
+I_{xz} = -\sum_im_ix_iz_i = I_{zx}
+$$
+
+$$
+I_{yz} = -\sum_im_iy_iz_i = I_{zy}
 $$
 
 </p>
