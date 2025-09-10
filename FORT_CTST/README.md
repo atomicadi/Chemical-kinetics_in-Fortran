@@ -143,10 +143,10 @@ $$
 </p>
 
 Finally using equation (11)-(16), the moment of inerta tensor is generated,
-  | I<sub>xx</sub> | I_xy | I_xz |
-  |------|------|------|
-  | I_yx | I_yy | I_yz |
-  | I_zx | I_zy | I_zz |
+  | I<sub>xx</sub> | I<sub>xy</sub | I<sub>xz</sub |
+  |----------------|---------------|---------------|
+  | I<sub>yx</sub | I<sub>yy</sub | I<sub>yz</sub |
+  | I<sub>zx</sub | I<sub>zy</sub | I<sub>zz</sub |
 
 
 
