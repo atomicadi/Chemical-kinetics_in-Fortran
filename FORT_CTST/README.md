@@ -151,3 +151,5 @@ Finally using equation (11)-(16), the moment of inerta tensor is generated.
 To obtain the values of moment of inertia, the tensor matrix is diagonalized using the external libraries LAPACK and BLAS. On the other hand, **mod2_partition.f90** is the second module file which conatins the calculations of parition functions using the values of module file 1 and also the calculation of CSTST rate constant.\
 Beside that **mother.f90** is the main file which gathered all the information by the user from the input file (**H_HBr.inp**) and link all the files through the command and gives the executable file (**TST**), and at the end by typing a simple command (```./TST```) to run the executable file the result can be gererated as the form of a outpul file, **H_HBr.out**.
 
+For more information on CTST, please visit: Laidler, K. J., & Keith, J. **(1965)**. Chemical kinetics (Vol. 2). New York: McGraw-Hill.
+
