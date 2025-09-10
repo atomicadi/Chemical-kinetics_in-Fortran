@@ -64,7 +64,7 @@ The formula of separate partition functions are:
 
 
 $$
-q_{ν} (per nmormal mode) =  \frac{1}{(1 - e^{-\frac{hν}{k_BT}})}  ...... (6)
+q_{ν} $(per normal mode)$ =  \frac{1}{(1 - e^{-\frac{hν}{k_BT}})}  ...... (6)
 $$
 
 $$
