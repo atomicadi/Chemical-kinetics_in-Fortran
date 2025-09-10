@@ -76,7 +76,7 @@ q_{r} (nonlinear molecule) =  \frac{8π^2(8π^3I_AI_BI_C)^{1/2}(k_BT)^{3/2}}{σh
 $$
 
 $$
-q_{t} =  \frac{(2πmk_BT)^{3/2}}{h^2}  ...... (8)
+q_{t} =  \frac{(2πmk_BT)^{3/2}}{h^2}  ...... (9)
 $$
 </p>
 Command line: ```./TST```
