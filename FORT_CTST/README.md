@@ -47,4 +47,16 @@ $$
 
 </p>
 
+Where q<sub>e</sub> (electronic), q<sub>ν</sub> (vibrational), q<sub>r</sub> (rotational), and q<sub>t</sub> (translational) are separate partition functions, each referring to one type of energy. At ordinary temperatures the excited electronic levels of an atom or molecule are
+usually too high to make a significant contribution to the partition function and equation (4) becomes,
+<p align="center">
+
+
+$$
+q = q_{ν} q_{r} q_{t}  ...... (5)
+$$
+
+
+</p>
+
 Command line: ```./TST```
