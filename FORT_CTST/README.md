@@ -143,11 +143,9 @@ $$
 </p>
 
 Finally using equation (11)-(16), the moment of inerta tensor is generated,
-
-    \begin{matrix}
-    A1 & A2 & A3 \\\\
-    A4 & A5 & A6
-    \end{matrix}
+| a | b |
+|---|---|
+| c | d |
 
 
 
