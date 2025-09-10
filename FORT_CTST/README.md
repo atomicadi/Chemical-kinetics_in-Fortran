@@ -155,6 +155,5 @@ Beside that **mother.f90** is the main file which gathered all the information b
 [**N.B.** Here the reaction H + HBr = H<sub>2</sub> + Br is used as example for this code from the book Chemical Kinetics by K. J. Laidler]
 
 
-For more information on CTST and the example reaction, please visit: Laidler, K. J., & Keith, J. **(1965)**. Chemical kinetics (Vol. 2). New York: McGraw-Hill.\
-And for more information on moment of inertia tensor, please visit: Bernath, P. F. **(2020)**. Spectra of atoms and molecules. Oxford university press.
-
+For more detailed information, please check: Laidler, K. J., & Keith, J. **(1965)**. Chemical kinetics (Vol. 2). New York: McGraw-Hill.\
+And also for more information on moment of inertia tensor, please visit: Bernath, P. F. **(2020)**. Spectra of atoms and molecules. Oxford university press.
