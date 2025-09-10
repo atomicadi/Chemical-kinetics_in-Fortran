@@ -87,7 +87,7 @@ Now, if a reaction is
 
 
 $$
-A + B -> a^{‡} -> C + D 
+A + B => a^{‡} => C + D 
 $$
 
 
