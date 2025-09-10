@@ -1,16 +1,1 @@
-# Folder: FORT_CTST
-# FORT: Fortran Operator for Rate Theory, A CTST rate calculator
-<img width="1440" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e2052a93-ca0e-4fd0-8428-3042c930489b" />
-
-Command line: ```./TST```
-
-# Folder: RRKM
-Command line: ```gfortran -o rr rrkm.f90```
-
-```./rr```
-
-# Folder: Wigner tunnelling (Tunneling/Wigner)
-Command line: ```gfortran -o wig wigner.f90```
-
-```./wig```
 
