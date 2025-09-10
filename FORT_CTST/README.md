@@ -111,17 +111,17 @@ In this project the CTST rate constant is calculated by solving equation (10) th
 
 
 $$
-I_{xx} = \sum_i(y_i^2 + z_i^2)
+I_{xx} = \sum_im_i(y_i^2 + z_i^2)
 $$
 
 
 $$
-I_{yy} = \sum_i(x_i^2 + z_i^2)
+I_{yy} = \sum_im_i(z_i^2 + x_i^2)
 $$
 
 
 $$
-I_{zz} = \sum_i(y_i^2 + x_i^2)
+I_{zz} = \sum_im_i(x_i^2 + y_i^2)
 $$
 
 </p>
