@@ -97,9 +97,11 @@ then using all the formulas, finally the CSTS rate constant equation becomes,
 
 
 $$
-k = \frac{k_BT}{h} \frac{q_{‡}}{q_A q_B} e^{-\frac{E_0}{RT}}  ...... (4)
+k = \frac{k_BT}{h} \frac{q_{‡}}{q_A q_B} e^{-\frac{E_0}{RT}}  ...... (10)
 $$
 
 
-</p> 
+</p>
+
+Where, q<sub>{‡}<\sub> is the total partition function of activated complex, q<sub>A<\sub> and q<sub>B<\sub> are the total partition function of reactant A and B respectively, E<sub>0<\sub> = Barrier hight, and R = Gas constant.
 Command line: ```./TST```
