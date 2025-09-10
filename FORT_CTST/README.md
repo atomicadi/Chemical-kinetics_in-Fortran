@@ -140,11 +140,7 @@ $$
 
 
 Finally using equation (11)-(16), the moment of inerta tensor is generated,\
-$$
-\begin{bmatrix}
-a & b & c \\
-d & e & f \\
-g & h & i
-\end{bmatrix}
-$$
+| a | b |
+|---|---|
+| c | d |
 Command line: ```./TST```
