@@ -1,3 +1,6 @@
+! Aditya Barman, Graduate student, Weizmann Institute of Science, Israel; Aug 15, 2025
+! Email: atomicadi2023@gmail.com
+
 program rate_calc
        use mod_1_requirement_scratch
        use mod_2_partition_calc_scratch
