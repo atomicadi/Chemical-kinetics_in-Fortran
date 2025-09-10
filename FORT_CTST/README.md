@@ -124,13 +124,16 @@ $$
 I_{zz} = \sum_im_i(x_i^2 + y_i^2)  ......(13)
 $$
 
+
 $$
 I_{xy} = -\sum_im_ix_iy_i = I_{yx}  ......(14)
 $$
 
+
 $$
 I_{xz} = -\sum_im_ix_iz_i = I_{zx}  ......(15)
 $$
+
 
 $$
 I_{yz} = -\sum_im_iy_iz_i = I_{zy}  ......(16)
@@ -139,7 +142,8 @@ $$
 
 </p>
 
-Finally using equation (11)-(16), the moment of inerta tensor is generated,\
+Finally using equation (11)-(16), the moment of inerta tensor is generated,
+
 $\begin{bmatrix}A1 &A2 & A3\\A4 & A5 & A6 \end{bmatrix}$
 
 
