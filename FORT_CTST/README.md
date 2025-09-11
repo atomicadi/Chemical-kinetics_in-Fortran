@@ -142,14 +142,18 @@ $$
 
 </p>
 
-Finally using equation (11)-(16), the moment of inerta tensor is generated.
+Finally, using equations (11)-(16), the moment of inertia tensor is generated.
   | I<sub>xx</sub> | I<sub>xy</sub> | I<sub>xz</sub> |
   |----------------|----------------|----------------|
   | I<sub>yx</sub> | I<sub>yy</sub> | I<sub>yz</sub> |
   | I<sub>zx</sub> | I<sub>zy</sub> | I<sub>zz</sub> |
 
 To obtain the values of moment of inertia, the tensor matrix is diagonalized using the external libraries (LAPACK and BLAS) and used according to the condition of molecular types (eg, Linear, Spherical top, Prolet-symmertic top, etc.). On the other hand, **mod2_partition.f90** is the second module file which conatins the calculations of parition functions using the values of module file 1 and also the calculation of CTST rate constant.\
-Beside that **mother.f90** is the main file which gathered all the information by the user from the input file (**H_HBr.inp**) and link all the files through the command and gives the executable file (**TST**), and at the end by typing a simple command (```./TST```) to run the executable file the result can be gererated as the form of a outpul file, **H_HBr.out**.
+Beside that **mother.f90** is the main file which gathered all the information by the user from the input file (**H_HBr.inp**) and link all the files through the command,
+```
+gfortran -o calc mod1_requirement.o mod2_partition.o main.o -llapack -lblas
+```
+and gives the executable file (**TST**), and at the end by typing a simple command (```./TST```) to run the executable file the result can be gererated as the form of a outpul file, **H_HBr.out**.
 
 
 [**N.B.** Here the reaction H + HBr = H<sub>2</sub> + Br is used as example for this code from the book Chemical Kinetics by K. J. Laidler]
