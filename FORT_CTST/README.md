@@ -148,7 +148,7 @@ Finally, using equations (11)-(16), the moment of inertia tensor is generated.
   | I<sub>yx</sub> | I<sub>yy</sub> | I<sub>yz</sub> |
   | I<sub>zx</sub> | I<sub>zy</sub> | I<sub>zz</sub> |
 
-To obtain the values of moment of inertia, the tensor matrix is diagonalized using the external libraries (LAPACK and BLAS) and used according to the condition of molecular types (eg, Linear, Spherical top, Prolet-symmertic top, etc.). On the other hand, **mod2_partition.f90** is the second module file which conatins the calculations of parition functions using the values of module file 1 and also the calculation of CTST rate constant.\
+To obtain the values of moment of inertia, the tensor matrix is diagonalized using the external libraries (LAPACK and BLAS) and used according to the conditions of molecular types (eg, Linear, Spherical top, Prolet-symmertic top, etc.). On the other hand, **mod2_partition.f90** is the second module file which conatins the calculations of parition functions using the values of module file 1 and also the calculation of CTST rate constant.\
 Beside that **mother.f90** is the main file which gathered all the information by the user from the input file (**H_HBr.inp**) and link all the files through the command,
 ```
 gfortran -o TST mod_1_requirement_scratch.f90 mod2_partition.f90 mother.f90 -llapack -lblas
